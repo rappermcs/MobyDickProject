@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Moby Dick";
+}
+
+@model IEnumerable<AppMobyDick.Web.Models.MobyDickVM>
+
+<div class="text-center">
+    <div class="">
+
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm">
+                Kelime
+            </div>
+            <div class="col-sm">
+                Adet
+            </div>
+        </div>
+        
+        @foreach(var item in Model){
+            <div class="row">
+                <div class="col-sm">
+                    @item.word
+                </div>
+                <div class="col-sm">
+                    @item.count
+                </div>
+            </div>
+        }
+        
+
+    </div>
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>

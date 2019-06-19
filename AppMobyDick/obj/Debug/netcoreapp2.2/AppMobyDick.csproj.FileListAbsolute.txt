@@ -1,0 +1,11 @@
+C:\Users\pi\source\repos\AppMobyDick\AppMobyDick\bin\Debug\netcoreapp2.2\AppMobyDick.deps.json
+C:\Users\pi\source\repos\AppMobyDick\AppMobyDick\bin\Debug\netcoreapp2.2\AppMobyDick.runtimeconfig.json
+C:\Users\pi\source\repos\AppMobyDick\AppMobyDick\bin\Debug\netcoreapp2.2\AppMobyDick.runtimeconfig.dev.json
+C:\Users\pi\source\repos\AppMobyDick\AppMobyDick\bin\Debug\netcoreapp2.2\AppMobyDick.dll
+C:\Users\pi\source\repos\AppMobyDick\AppMobyDick\bin\Debug\netcoreapp2.2\AppMobyDick.pdb
+C:\Users\pi\source\repos\AppMobyDick\AppMobyDick\obj\Debug\netcoreapp2.2\AppMobyDick.csprojAssemblyReference.cache
+C:\Users\pi\source\repos\AppMobyDick\AppMobyDick\obj\Debug\netcoreapp2.2\AppMobyDick.csproj.CoreCompileInputs.cache
+C:\Users\pi\source\repos\AppMobyDick\AppMobyDick\obj\Debug\netcoreapp2.2\AppMobyDick.AssemblyInfoInputs.cache
+C:\Users\pi\source\repos\AppMobyDick\AppMobyDick\obj\Debug\netcoreapp2.2\AppMobyDick.AssemblyInfo.cs
+C:\Users\pi\source\repos\AppMobyDick\AppMobyDick\obj\Debug\netcoreapp2.2\AppMobyDick.dll
+C:\Users\pi\source\repos\AppMobyDick\AppMobyDick\obj\Debug\netcoreapp2.2\AppMobyDick.pdb
